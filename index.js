@@ -1,4 +1,4 @@
-// This project is live at https://replit.com/@thebtechviral/marktwoByAadhar?embed=1&output=1
+// This project is live at http://bit.ly/comedyQuiz
 
 const readlineSync = require('readline-sync');
 const chalk = require('chalk');
