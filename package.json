@@ -1,0 +1,15 @@
+{
+  "name": "markone",
+  "version": "1.0.0",
+  "description": "This is the assignment submission for neogcamp Assignment for markone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aadhar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
